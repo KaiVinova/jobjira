@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>109079024899-9ovjbfgk26ol1qp64kdh5p381i4fu370.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.109079024899-9ovjbfgk26ol1qp64kdh5p381i4fu370</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDzeDUxg6RTmDufYRlb2nqCzRN9TkVnHr8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>109079024899</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jobjira.pte</string>
+	<key>PROJECT_ID</key>
+	<string>jobjiradevelopment-34126</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jobjiradevelopment-34126.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:109079024899:ios:d5326a4abfce63c9</string>
+	<key>DATABASE_URL</key>
+	<string>https://jobjiradevelopment-34126.firebaseio.com</string>
+</dict>
+</plist>
